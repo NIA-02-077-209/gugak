@@ -12,4 +12,4 @@
 
 ## 음악자동채보 (Automatic Music Transcription)
 - repository
-  - github link (추후 추가)
+  - https://github.com/NIA-02-077-209/gugak/tree/main/AMT
