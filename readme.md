@@ -4,11 +4,11 @@
 
 ## 음악장르분류 (Music Genre Classification)
 - repository
-  - https://github.com/pratikshaya/genre_221216_docker_project
+  - https://github.com/NIA-02-077-209/gugak/tree/main/MGC
 
 ## 음악음원분리 (Music Source Separation)
 - repository
-  - https://github.com/pratikshaya/MSS_221118_project
+  - https://github.com/NIA-02-077-209/gugak/tree/main/MSS
 
 ## 음악자동채보 (Automatic Music Transcription)
 - repository
